@@ -1,0 +1,18 @@
+
+
+
+ul.navbar-ul li {
+    
+    display: inline-block;
+    padding: 14px ;
+    /* min-width: 8rem; */
+    /* text-align: center; */
+    background-color: aqua;
+    margin: 0px;
+    
+  }
+
+  /* ul.navbar-ul li:not(:last-child) {
+    border-right: 1px solid black;
+    
+  }   */
